@@ -10,7 +10,7 @@ This is an open source coding curiculumn built around 3 core principlesm chosen 
 
  1. **Don't lose sight of the big picture**    
 
-    Often coding curiculumns over-focus on the syntax of a particular language. New students may struggle to learn what is common to programming as opposed to being a feature, quirck, or 'gotchya' of the particular language they are being taught. By providing content in 3 languages students can build an intuitive grounding of the difference between *syntax* and *programming*.
+    Often coding curiculumns over-focus on the syntax of a particular language. New students may struggle to learn what is common to programming as opposed to being a feature, quirck, or 'gotchya' of the particular language they are being taught. By providing content in 3 languages students can build an intuitive understanding of the difference between *syntax* and *programming*.
 
  2. **Teach by _lots of_ examples**
 
