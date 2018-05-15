@@ -682,11 +682,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kelso\\Documents\\Curiculumn\\1_Hello_World\\CSharp\\CSharp.csproj",
+      "projectUniqueName": "c:\\Users\\kelso\\Documents\\Curiculumn\\1_Concepts\\1_Hello_World\\CSharp\\CSharp.csproj",
       "projectName": "CSharp",
-      "projectPath": "C:\\Users\\kelso\\Documents\\Curiculumn\\1_Hello_World\\CSharp\\CSharp.csproj",
+      "projectPath": "c:\\Users\\kelso\\Documents\\Curiculumn\\1_Concepts\\1_Hello_World\\CSharp\\CSharp.csproj",
       "packagesPath": "C:\\Users\\kelso\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kelso\\Documents\\Curiculumn\\1_Hello_World\\CSharp\\obj\\",
+      "outputPath": "c:\\Users\\kelso\\Documents\\Curiculumn\\1_Concepts\\1_Hello_World\\CSharp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
