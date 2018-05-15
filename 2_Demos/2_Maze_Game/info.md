@@ -1,0 +1,1 @@
+The maze-game application will generate a simple random maze that the user can navidate through.

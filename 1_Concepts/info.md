@@ -1,0 +1,1 @@
+Chapter 1 is focused on the core tools, concepts, and building blocks of computer programs. Programing concepts explored include variables and assignment, types, loops and braching, functions and recursion, and the basics memory management. 

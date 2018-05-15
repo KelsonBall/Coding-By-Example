@@ -1,0 +1,1 @@
+The blur application will take an image file (.tga), decode the image, apply a gaussian blur, encode the blurred image, and write it to disk.

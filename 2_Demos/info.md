@@ -1,0 +1,1 @@
+The demos chapter contains a large number of small, self contained applications demonstrating how common programming tasks are handled in each of the curiculumns languages. It is intended to demonstrate how small peices of code like the snippets from chapter 1 are composed to make larger programs.
