@@ -13,3 +13,26 @@ This is an open source coding curiculumn built around 3 core principlesm chosen 
 3. **Teach tools and workflow, not just coding**
 
     In the quest to keep things as simple as possible many courses skip over as much of the setup, planning, and "messiness" of real life programming. This can lead to students learning to program within the friendly and familiar sandboxes of their courses and then being lost when they need to create something outside of that sandbox. Additionally, curiculumns rarely focus at all on the "creative process" of coding, which is vital to exploratory learning.
+
+## Using the Curiculumn
+
+ The curiculumn is availble free of charge for both commercial and non commercial use (specifically it is licensed under the [MIT License](./LICENSE.md) ).
+
+### Getting Started Guides
+ **TODO, write these guides**
+ * For Students
+   * [self-guided students](./0_Info/self_guided.md)
+   * [academic students](./0_Info/students.md)
+ * For Instructors
+   * [one-on-one mentorship](./0_info/mentors.md)
+   * [workshop instruction](./0_info/workshops.md)
+   * [classroom instruction](./0_info/classrooms.md)
+
+## Contibuting
+
+ Contibutions are greatly appreciated. 
+
+ To contact the maintainer
+  * Open an [issue](https://github.com/KelsonBall/Coding-By-Example/issues)
+  * Join the [discord](https://discord.gg/bT7rm48) server
+  * Tweet [@Poly_Sigh](https://twitter.com/Poly_Sigh)
