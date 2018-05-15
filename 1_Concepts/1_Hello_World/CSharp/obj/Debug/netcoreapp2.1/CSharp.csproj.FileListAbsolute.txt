@@ -1,0 +1,11 @@
+C:\Users\kelso\Documents\Curiculumn\1_Hello_World\CSharp\bin\Debug\netcoreapp2.1\CSharp.deps.json
+C:\Users\kelso\Documents\Curiculumn\1_Hello_World\CSharp\bin\Debug\netcoreapp2.1\CSharp.runtimeconfig.json
+C:\Users\kelso\Documents\Curiculumn\1_Hello_World\CSharp\bin\Debug\netcoreapp2.1\CSharp.runtimeconfig.dev.json
+C:\Users\kelso\Documents\Curiculumn\1_Hello_World\CSharp\bin\Debug\netcoreapp2.1\CSharp.dll
+C:\Users\kelso\Documents\Curiculumn\1_Hello_World\CSharp\bin\Debug\netcoreapp2.1\CSharp.pdb
+C:\Users\kelso\Documents\Curiculumn\1_Hello_World\CSharp\obj\Debug\netcoreapp2.1\CSharp.csprojAssemblyReference.cache
+C:\Users\kelso\Documents\Curiculumn\1_Hello_World\CSharp\obj\Debug\netcoreapp2.1\CSharp.csproj.CoreCompileInputs.cache
+C:\Users\kelso\Documents\Curiculumn\1_Hello_World\CSharp\obj\Debug\netcoreapp2.1\CSharp.AssemblyInfoInputs.cache
+C:\Users\kelso\Documents\Curiculumn\1_Hello_World\CSharp\obj\Debug\netcoreapp2.1\CSharp.AssemblyInfo.cs
+C:\Users\kelso\Documents\Curiculumn\1_Hello_World\CSharp\obj\Debug\netcoreapp2.1\CSharp.dll
+C:\Users\kelso\Documents\Curiculumn\1_Hello_World\CSharp\obj\Debug\netcoreapp2.1\CSharp.pdb
